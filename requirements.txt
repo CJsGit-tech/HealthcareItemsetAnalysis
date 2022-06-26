@@ -1,0 +1,8 @@
+streamlit
+matplotlib
+pandas
+scikit-learn
+seaborn
+pyvis
+networkx
+mlxtend
